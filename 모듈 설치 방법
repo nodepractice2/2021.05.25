@@ -11,3 +11,6 @@ scripts 부분
     "start": "nodemon app2"
   } 
 복붙
+그리고 
+.env 파일을 새로 만들어줘야 됩니다
+COOKIE_SECRET=cookiesecret << 붙여넣기 
